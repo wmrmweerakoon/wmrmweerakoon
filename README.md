@@ -7,8 +7,7 @@
 
 - 👯 I’m looking to collaborate on [AI-powered educational content projects (Raishn Kids)](➡️ [Raishn Kids](http://www.youtube.com/@RaishnKids))
 
-- 📝 I regularly share content on [➡️ [Raishn Kids YouTube Channel](http://www.youtube.com/@RaishnKids)](➡️ [Raishn Kids YouTube Channel](http://www.youtube.com/@RaishnKids))
-
+- 📝 I regularly share content on [➡️ [Raishn Kids YouTube Channel](http://www.youtube.com/@RaishnKids)]
 - 💬 Ask me about **React, Flutter, MongoDB, and 3D Modeling with Blender**
 
 - 📫 How to reach me **ruvishan.m.weerakoon@gmail.com**
