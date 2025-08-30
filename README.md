@@ -3,8 +3,9 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="banner" />
 </div>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+W.M.R.M.+Weerakoon;Software+Engineering+Undergraduate+at+SLIIT;Web+Developer+%7C+Designer+%7C+AI+Content+Creator+%7C+3D+Modeler)](https://git.io/typing-svg)
+<!-- Typing Animation (fast & centered) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=200&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi%20I'm%20W.M.R.M.%20Weerakoon;Software%20Engineering%20Undergraduate%20at%20SLIIT;Web%20Developer;Designer;AI%20Content%20Creator;3D%20Modeler&repeat=false)](https://git.io/typing-svg)
+
 
 ---
 
@@ -60,3 +61,7 @@
 ---
 
 ✨ *Thanks for visiting my profile! Let’s build something amazing together 🚀*  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/footer_.png" width="100%" alt="footer" />
+</div>
