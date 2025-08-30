@@ -62,6 +62,4 @@
 
 ✨ *Thanks for visiting my profile! Let’s build something amazing together 🚀*  
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/footer_.png" width="100%" alt="footer" />
-</div>
+
