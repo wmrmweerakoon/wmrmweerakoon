@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">🎨 UI/UX Engineer & Designer | 🎓 Software Engineering Undergraduate | 🌐 Web Enthusiast | 🖌️ 3D Modeler | 🤖 AI Content Creator</h3>
+<h3 align="center">🎓 Software Engineering Undergraduate at SLIIT | 🌐 Web Developer | 🎨 UI/UX Enthusiast & Designer in Progress | 🤖 AI Content Creator</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wmrmweerakoon&label=Profile%20views&color=0e75b6&style=flat" alt="wmrmweerakoon" />
