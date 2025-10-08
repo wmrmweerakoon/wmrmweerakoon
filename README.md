@@ -4,7 +4,7 @@
 </div>
 
 <!-- Typing Animation (fast & centered) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=200&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi%20I'm%20W.M.R.M.%20Weerakoon;UI%2FUX%20Engineer%20%26%20Designer;Software%20Engineering%20Undergraduate%20at%20SLIIT;Web%20%26%20Mobile%20Interface%20Designer;AI%20Content%20Creator;3D%20Modeler&repeat=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=200&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi%20I'm%20W.M.R.M.%20Weerakoon;Software%20Engineering%20Undergraduate%20at%20SLIIT;🌐%20Web%20Developer;🎨%20UI%2FUX%20Enthusiast%20%26%20Designer%20in%20Progress;🤖%20AI%20Content%20Creator&repeat=false)](https://git.io/typing-svg)
 
 ---
 
