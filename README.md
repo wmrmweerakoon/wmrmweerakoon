@@ -54,7 +54,7 @@ I am a **Software Engineering undergraduate actively seeking an internship** whe
 - AI-powered Q&A systems
 
 ### 🎨 UI / UX & Design
-- Figma, Adobe XD
+- Figma
 - Responsive Design
 - Wireframing & Prototyping
 - Design Systems
@@ -67,7 +67,7 @@ I am a **Software Engineering undergraduate actively seeking an internship** whe
 
 | Project | Description |
 |-------|-------------|
-| [📄 **AI PDF Content Finder**] | Full-stack AI web app that extracts PDF text and answers user questions using Google Gemini. Includes deployment, database storage, and responsive UI. |
+| [📄 **AI PDF Content Finder**](https://github.com/wmrmweerakoon/AskMyPDF.git) | Full-stack AI web app that extracts PDF text and answers user questions using Google Gemini. Includes deployment, database storage, and responsive UI. |
 | [🤖 **AI Student Assistant**](https://github.com/wmrmweerakoon/ai-student-assistant) | Educational chatbot with conversational UI and AI-based responses |
 | [🧺 **Online Laundry Management System**](https://github.com/wmrmweerakoon/Online-Laundry-Management-System) | End-to-end web system with dashboard UI and backend logic |
 | [💆‍♀️ **YouCalm Mobile UI Prototype**](https://github.com/wmrmweerakoon/YouCalm-Mobile-UI-Prototype) | YouCalm is a mobile app UI/UX prototype designed in Figma to promote mindfulness and stress relief. |
