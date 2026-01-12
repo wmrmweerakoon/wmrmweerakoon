@@ -64,13 +64,16 @@ I am a **Software Engineering undergraduate actively seeking an internship** whe
 
 ## 🌟 Featured Projects (Internship-Relevant)
 
+## 🚀 Projects
 
 | Project | Description |
-|-------|-------------|
-| [📄 **AI PDF Content Finder**](https://github.com/wmrmweerakoon/AskMyPDF.git) | Full-stack AI web app that extracts PDF text and answers user questions using Google Gemini. Includes deployment, database storage, and responsive UI. |
-| [🤖 **AI Student Assistant**](https://github.com/wmrmweerakoon/ai-student-assistant) | Educational chatbot with conversational UI and AI-based responses |
-| [🧺 **Online Laundry Management System**](https://github.com/wmrmweerakoon/Online-Laundry-Management-System) | End-to-end web system with dashboard UI and backend logic |
-| [💆‍♀️ **YouCalm Mobile UI Prototype**](https://github.com/wmrmweerakoon/YouCalm-Mobile-UI-Prototype) | YouCalm is a mobile app UI/UX prototype designed in Figma to promote mindfulness and stress relief. |
+|--------|-------------|
+| [🌱 **LeafLink – Plant Marketplace**](https://github.com/wmrmweerakoon/Plant-Marketplace.git) | Full-stack MERN e-commerce platform for buying and selling plants. Features secure JWT authentication, Stripe payments, seller & admin dashboards, Cloudinary image storage, and an AI-powered plant care assistant using the Gemini API. |
+| [📄 **AI PDF Content Finder**](https://github.com/wmrmweerakoon/AskMyPDF.git) | Full-stack AI web application that extracts PDF content and answers user questions using Google Gemini. Includes database storage, deployment, and a responsive UI. |
+| [🤖 **AI Student Assistant**](https://github.com/wmrmweerakoon/ai-student-assistant) | Educational AI chatbot with a conversational interface and intelligent response handling. |
+| [🧺 **Online Laundry Management System**](https://github.com/wmrmweerakoon/Online-Laundry-Management-System) | End-to-end web-based laundry management system featuring dashboards, backend logic, and user workflows. |
+| [💆‍♀️ **YouCalm Mobile UI Prototype**](https://github.com/wmrmweerakoon/YouCalm-Mobile-UI-Prototype) | Mobile app UI/UX prototype designed in Figma to promote mindfulness and stress relief. |
+
 
 
 ---
