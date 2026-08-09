@@ -1,178 +1,274 @@
-<!-- 🎨 Banner -->
+<!-- ================= HEADER BANNER ================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C6FF&height=230&section=header&text=W.M.R.M.%20Weerakoon&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=200&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi%20I'm%20W.M.R.M.%20Weerakoon;Software%20Engineering%20Undergraduate%20at%20SLIIT;Full-Stack%20%26%20Microservices%20Developer;AI-Powered%20Application%20Builder;Cloud-Native%20%26%20DevOps%20Enthusiast&repeat=false)](https://git.io/typing-svg)
+<!-- ================= TYPING ANIMATION ================= -->
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hi%2C+I'm+Ruvishan+Maleesha+Weerakoon;Full-Stack+Developer+Intern+%40+SLT+Mobitel+HQ;Software+Engineering+Undergraduate+at+SLIIT;AI-Powered+Application+Builder;Cloud-Native+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
 
-<h3 align="center">
-🎓 Software Engineering Undergraduate at SLIIT | 💻 Full-Stack Developer | 🤖 AI Application Builder | ☁️ Cloud-Native & DevOps Enthusiast
-</h3>
+</div>
 
+<!-- ================= BADGES ROW ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wmrmweerakoon&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=wmrmweerakoon&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Currently%20Interning%20@-SLT%20Mobitel%20HQ-00C6FF?style=for-the-badge&logo=SltMobitel&logoColor=white" alt="current internship"/>
+  <img src="https://img.shields.io/badge/Open%20to-Full--Time%20Roles%202026-success?style=for-the-badge" alt="open to work"/>
 </p>
 
----
-
-## 🎯 Career Objective (Internship)
-
-I am a **Software Engineering undergraduate actively seeking an internship** where I can apply my skills in **full-stack web development, microservices architecture, AI-integrated systems, and cloud-native deployment**, while learning from real-world engineering practices and contributing meaningfully to a professional development team.
+<!-- animated gradient divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:00C6FF&height=3&width=100%" width="100%"/>
 
 ---
 
-## 🚀 About Me
+<p align="center"><img src="https://api.iconify.design/fa6-solid/briefcase.svg?color=%2300C6FF&height=30"/></p>
 
-- 🎓 Software Engineering Undergraduate at **SLIIT**
-- 💻 Passionate about **building real-world, scalable web applications**
-- ☁️ Experienced in **microservices, Docker, Kubernetes, and cloud-native architectures**
-- 🤖 Experienced in **AI-powered applications using Google Gemini**
-- 🧩 Strong interest in **problem-solving, system design, and clean architecture**
-- 🎨 UI/UX-focused engineer who values **usability, performance, and accessibility**
-- 🌱 Currently learning **advanced React patterns, backend optimization, and cloud deployment**
-- 📫 Reach me at **ruvishan.m.weerakoon@gmail.com**
+## Currently
 
----
+```yaml
+role: Full-Stack Developer Intern
+company: SLT Mobitel HQ (Sri Lanka Telecom)
+focus: Building & scaling enterprise-grade web systems
+learning: Large-scale architecture, real-world DevOps, enterprise engineering practices
+status: 🟢 Actively contributing to production systems
+```
 
-## 🛠️ Technical Skills
-
-### 💻 Programming & Development
-- JavaScript (ES6+), TypeScript, Python, C, C++
-- React, Vite, TailwindCSS
-- Node.js, Express, Microservices Architecture
-- REST APIs, JWT Authentication, RBAC
-- MongoDB, PostgreSQL, MySQL, SQLite
-- Firebase Hosting, Render, Vercel
-- Git & GitHub
-
-### ☁️ DevOps & Cloud
-- Docker & Docker Compose
-- Kubernetes (K8s) — Deployments, Services, Ingress
-- Nginx (Reverse Proxy & Load Balancing)
-- Artillery.io (Load & Performance Testing)
-- CI/CD Pipelines
-
-### 🤖 AI & Automation
-- Google Gemini API
-- AI-driven document analysis
-- Prompt engineering
-- AI-powered health symptom analysis
-
-### 🎨 UI / UX & Design
-- Figma
-- Responsive Design
-- Wireframing & Prototyping
-- Design Systems
-- Accessibility-aware UI
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="500">
+</div>
 
 ---
 
-## 🌟 Featured Projects
+<p align="center"><img src="https://api.iconify.design/fa6-solid/user.svg?color=%2300C6FF&height=30"/></p>
 
-### 🏥 AI-Enabled Smart Healthcare & Telemedicine Platform
-> *Distributed Systems Module — SLIIT 2025*
+## About Me
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white)](https://stripe.com)
+<table align="center" width="100%">
+<tr><td width="6%" align="center"><img src="https://api.iconify.design/fa6-solid/tower-broadcast.svg?color=%2300C6FF&height=20"/></td><td width="94%"><b>Full-Stack Developer Intern</b> at <b>SLT Mobitel HQ</b></td></tr>
+<tr><td align="center"><img src="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=%2300C6FF&height=20"/></td><td>Software Engineering Undergraduate at <b>SLIIT</b></td></tr>
+<tr><td align="center"><img src="https://api.iconify.design/fa6-solid/code.svg?color=%2300C6FF&height=20"/></td><td>Passionate about building <b>real-world, scalable web applications</b></td></tr>
+<tr><td align="center"><img src="https://api.iconify.design/fa6-brands/docker.svg?color=%2300C6FF&height=20"/></td><td>Experienced in <b>microservices, Docker, Kubernetes &amp; cloud-native architectures</b></td></tr>
+<tr><td align="center"><img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2300C6FF&height=20"/></td><td>Experienced in <b>AI-powered applications using Google Gemini</b></td></tr>
+<tr><td align="center"><img src="https://api.iconify.design/fa6-solid/diagram-project.svg?color=%2300C6FF&height=20"/></td><td>Strong interest in <b>problem-solving, system design &amp; clean architecture</b></td></tr>
+<tr><td align="center"><img src="https://api.iconify.design/fa6-solid/palette.svg?color=%2300C6FF&height=20"/></td><td>UI/UX-focused engineer who values <b>usability, performance &amp; accessibility</b></td></tr>
+<tr><td align="center"><img src="https://api.iconify.design/fa6-solid/chart-line.svg?color=%2300C6FF&height=20"/></td><td>Currently learning <b>enterprise system design, advanced React patterns &amp; backend optimization</b></td></tr>
+<tr><td align="center"><img src="https://api.iconify.design/fa6-solid/envelope.svg?color=%2300C6FF&height=20"/></td><td>Reach me at <b>ruvishan.m.weerakoon@gmail.com</b></td></tr>
+</table>
 
-A **cloud-native, microservices-based healthcare platform** with 10+ decoupled services designed for high scalability and distributed operations.
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-**Key Features:**
-- 🔐 JWT-based authentication with Role-Based Access Control (RBAC) for Patient, Doctor, and Admin roles
-- 🎥 Real-time video consultations via **Jitsi Meet WebRTC**
-- 💳 Appointment fee processing via **Stripe Sandbox**
-- 📲 Dual-channel notifications (SMS & Email) via **Twilio**
-- 🤖 AI Symptom Checker for preliminary health analysis
-- 🐳 Fully containerized with **Docker Compose** and deployed on **Kubernetes**
+<p align="center"><img src="https://api.iconify.design/fa6-solid/screwdriver-wrench.svg?color=%2300C6FF&height=28"/></p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:00C6FF&height=65&section=header&text=Tech%20Stack&fontSize=24&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%"/>
 
-**Microservices:** `API Gateway` · `Auth` · `Patient` · `Doctor` · `Appointment` · `Telemedicine` · `Payment` · `Notification` · `Admin` · `AI Symptom Checker`
+<table align="center" width="100%">
+  <tr>
+    <td align="right" width="20%"><b>Languages</b></td>
+    <td align="left" width="80%"><img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,figma&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud &amp; DevOps</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,vercel,render&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI &amp; Tools</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=gemini,git,github,postman&theme=dark"/></td>
+  </tr>
+</table>
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wmrmweerakoon/smart-healthcare-platform)
+<br>
 
----
+<p align="center"><img src="https://api.iconify.design/fa6-solid/star.svg?color=%2300C6FF&height=28"/></p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:00C6FF&height=65&section=header&text=Featured%20Projects&fontSize=24&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%"/>
 
-### 🌿 AgriTrace — Food Traceability Platform
-> *Application Frameworks Module — SLIIT 2025*
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com)
-
-A **farm-to-table food traceability platform** that ensures transparency and accountability across the entire food supply chain via QR code scanning.
-
-**Key Features:**
-- 🧑‍🌾 Role-based REST APIs for **Farmer, Distributor, Retailer, and Consumer** stakeholders
-- 📦 Unique batch ID & QR code generation for end-to-end product tracking
-- ☁️ Deployed on **Vercel** (frontend) + **Render** (backend) + **MongoDB Atlas** (database)
-- 🧪 Full test coverage: Unit tests, Integration tests (mongodb-memory-server), and Load tests via **Artillery.io**
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://food-traceability-app.vercel.app)
-[![View Repo](https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wmrmweerakoon/food-traceability)
-
----
-
-## 🚀 Other Projects
-
-| Project | Description |
-|--------|-------------|
-| [🌱 **LeafLink – Plant Marketplace**](https://github.com/wmrmweerakoon/Plant-Marketplace.git) | Full-stack MERN e-commerce platform with JWT auth, Stripe payments, seller & admin dashboards, Cloudinary image storage, and Gemini AI plant care assistant. |
-| [📄 **AI PDF Content Finder**](https://github.com/wmrmweerakoon/AskMyPDF.git) | Full-stack AI web app that extracts PDF content and answers user questions using Google Gemini, with database storage and a responsive UI. |
-| [🤖 **AI Student Assistant**](https://github.com/wmrmweerakoon/ai-student-assistant) | Educational AI chatbot with a conversational interface and intelligent response handling. |
-| [🧺 **Online Laundry Management System**](https://github.com/wmrmweerakoon/Online-Laundry-Management-System) | End-to-end web-based laundry management system with dashboards, backend logic, and user workflows. |
-| [💆‍♀️ **YouCalm Mobile UI Prototype**](https://github.com/wmrmweerakoon/YouCalm-Mobile-UI-Prototype) | Mobile app UI/UX prototype designed in Figma to promote mindfulness and stress relief. |
-
----
-
-## 📌 What I Can Contribute as an Intern
-
-- Build and maintain **frontend & backend features**
-- Design and implement **microservices architectures**
-- Containerize and deploy apps using **Docker & Kubernetes**
-- Integrate **AI APIs** into real applications
-- Create **clean, responsive, user-friendly interfaces**
-- Write readable, maintainable, well-tested code
-- Learn quickly and adapt to team workflows
-
----
-
-## 🌐 Connect With Me
+<h3 align="center"><img src="https://api.iconify.design/fa6-solid/kit-medical.svg?color=%2300C6FF&height=20"/> Smart Healthcare Platform</h3>
+<p align="center"><i>Distributed Systems Module — SLIIT 2025</i></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ruvishan-maleesha-814510378">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/wmrmweerakoon">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://instagram.com/maleesha_weerakoon_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white"/>
 </p>
 
----
+A cloud-native, microservices-based healthcare platform with 10+ decoupled services for high scalability and distributed operations.
 
-## 📊 GitHub Stats
+<ul>
+<li><img src="https://api.iconify.design/fa6-solid/lock.svg?color=%2300C6FF&height=14"/> JWT auth with RBAC for Patient, Doctor &amp; Admin roles</li>
+<li><img src="https://api.iconify.design/fa6-solid/video.svg?color=%2300C6FF&height=14"/> Real-time video consultations via Jitsi Meet WebRTC</li>
+<li><img src="https://api.iconify.design/fa6-solid/credit-card.svg?color=%2300C6FF&height=14"/> Appointment fee processing via Stripe Sandbox</li>
+<li><img src="https://api.iconify.design/fa6-solid/mobile-screen.svg?color=%2300C6FF&height=14"/> Dual-channel SMS &amp; Email notifications via Twilio</li>
+<li><img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2300C6FF&height=14"/> AI Symptom Checker for preliminary health analysis</li>
+<li><img src="https://api.iconify.design/fa6-brands/docker.svg?color=%2300C6FF&height=14"/> Containerized with Docker Compose, deployed on Kubernetes</li>
+</ul>
+
+<p align="center"><sub><b>Services:</b> Gateway · Auth · Patient · Doctor · Appointment · Telemedicine · Payment · Notification · Admin · AI Checker</sub></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wmrmweerakoon&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/wmrmweerakoon/smart-healthcare-platform"><img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center"><img src="https://api.iconify.design/fa6-solid/seedling.svg?color=%2300C6FF&height=20"/> AgriTrace</h3>
+<p align="center"><i>Application Frameworks Module — SLIIT 2025</i></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+A farm-to-table food traceability platform ensuring transparency across the entire food supply chain via QR code scanning.
+
+<ul>
+<li><img src="https://api.iconify.design/fa6-solid/tractor.svg?color=%2300C6FF&height=14"/> Role-based REST APIs for Farmer, Distributor, Retailer &amp; Consumer</li>
+<li><img src="https://api.iconify.design/fa6-solid/box.svg?color=%2300C6FF&height=14"/> Unique batch ID &amp; QR code generation for end-to-end tracking</li>
+<li><img src="https://api.iconify.design/fa6-solid/cloud.svg?color=%2300C6FF&height=14"/> Deployed on Vercel + Render + MongoDB Atlas</li>
+<li><img src="https://api.iconify.design/fa6-solid/flask.svg?color=%2300C6FF&height=14"/> Unit, integration (mongodb-memory-server) &amp; load tests via Artillery.io</li>
+<li><img src="https://api.iconify.design/fa6-solid/chart-simple.svg?color=%2300C6FF&height=14"/> Real-time supply chain transparency dashboard</li>
+<li><img src="https://api.iconify.design/fa6-solid/magnifying-glass.svg?color=%2300C6FF&height=14"/> Full audit trail from farm to consumer</li>
+</ul>
+
+<p align="center"><sub><b>Stack:</b> React · Node.js · Express · MongoDB Atlas · Vercel · Render</sub></p>
+
+<p align="center">
+<a href="https://food-traceability-app.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-0e75b6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/wmrmweerakoon/food-traceability"><img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center"><img src="https://api.iconify.design/fa6-solid/rocket.svg?color=%2300C6FF&height=28"/></p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:00C6FF&height=65&section=header&text=More%20Projects&fontSize=24&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%"/>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://api.iconify.design/fa6-solid/leaf.svg?color=%2300C6FF&height=14"/> **[LeafLink – Plant Marketplace](https://github.com/wmrmweerakoon/Plant-Marketplace.git)**
+Full-stack MERN e-commerce platform with JWT auth, Stripe payments, seller & admin dashboards, Cloudinary storage, and a Gemini AI plant-care assistant.
+
+<img src="https://api.iconify.design/fa6-solid/file-lines.svg?color=%2300C6FF&height=14"/> **[AI PDF Content Finder](https://github.com/wmrmweerakoon/AskMyPDF.git)**
+Full-stack AI web app that extracts PDF content and answers user questions using Google Gemini, with database storage and a responsive UI.
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2300C6FF&height=14"/> **[AI Student Assistant](https://github.com/wmrmweerakoon/ai-student-assistant)**
+Educational AI chatbot with a conversational interface and intelligent response handling.
+
+<img src="https://api.iconify.design/fa6-solid/shirt.svg?color=%2300C6FF&height=14"/> **[Online Laundry Management System](https://github.com/wmrmweerakoon/Online-Laundry-Management-System)**
+End-to-end web-based laundry management system with dashboards, backend logic, and user workflows.
+
+</td>
+</tr>
+</table>
+
+<p align="center"><img src="https://api.iconify.design/fa6-solid/spa.svg?color=%2300C6FF&height=14"/> <b><a href="https://github.com/wmrmweerakoon/YouCalm-Mobile-UI-Prototype">YouCalm Mobile UI Prototype</a></b> — a Figma-designed mobile UI/UX prototype promoting mindfulness and stress relief.</p>
+
+<br>
+
+<p align="center"><img src="https://api.iconify.design/fa6-solid/thumbtack.svg?color=%2300C6FF&height=28"/></p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:00C6FF&height=65&section=header&text=What%20I%20Bring%20to%20a%20Team&fontSize=22&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%"/>
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://api.iconify.design/fa6-solid/layer-group.svg?color=%2300C6FF&height=26"/><br><b>Full-Stack Delivery</b><br><sub>Build &amp; maintain frontend and backend features end-to-end</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://api.iconify.design/fa6-solid/sitemap.svg?color=%2300C6FF&height=26"/><br><b>System Design</b><br><sub>Design and implement microservices architectures</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://api.iconify.design/fa6-brands/docker.svg?color=%2300C6FF&height=26"/><br><b>DevOps</b><br><sub>Containerize &amp; deploy with Docker and Kubernetes</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2300C6FF&height=26"/><br><b>AI Integration</b><br><sub>Wire AI APIs into real, production-facing apps</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://api.iconify.design/fa6-solid/pen-ruler.svg?color=%2300C6FF&height=26"/><br><b>Interface Craft</b><br><sub>Build clean, responsive, accessible UI</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://api.iconify.design/fa6-solid/bolt.svg?color=%2300C6FF&height=26"/><br><b>Fast Ramp-Up</b><br><sub>Learn quickly and adapt to enterprise workflows</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center"><img src="https://api.iconify.design/fa6-solid/chart-column.svg?color=%2300C6FF&height=28"/></p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:00C6FF&height=65&section=header&text=GitHub%20Analytics&fontSize=24&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%"/>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=wmrmweerakoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wmrmweerakoon&theme=tokyonight&hide_border=true" width="100%"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wmrmweerakoon&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wmrmweerakoon&theme=tokyo-night&hide_border=true" width="100%"/>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wmrmweerakoon&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmrmweerakoon&layout=compact&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wmrmweerakoon/wmrmweerakoon/output/bomberman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wmrmweerakoon/wmrmweerakoon/output/bomberman-contribution-graph.svg">
+    <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/wmrmweerakoon/wmrmweerakoon/output/bomberman-contribution-graph.svg" width="100%">
+  </picture>
 </p>
+
+<br>
+
+<p align="center"><img src="https://api.iconify.design/fa6-solid/globe.svg?color=%2300C6FF&height=28"/></p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:00C6FF&height=65&section=header&text=Connect%20With%20Me&fontSize=24&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmrmweerakoon&theme=tokyonight" />
+<a href="https://www.linkedin.com/in/ruvishan-maleesha-814510378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/wmrmweerakoon"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://instagram.com/maleesha_weerakoon_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:ruvishan.m.weerakoon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<p align="center"><i><img src="https://api.iconify.design/fa6-solid/sparkles.svg?color=%2300C6FF&height=14"/> Eager to learn, build, and contribute — currently doing it every day as a Full-Stack Developer Intern at SLT Mobitel HQ. Let's create impactful software together. <img src="https://api.iconify.design/fa6-solid/rocket.svg?color=%2300C6FF&height=14"/></i></p>
 
-✨ *I'm eager to learn, build, and contribute as a software engineering intern. Let's create impactful software together.* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0E75B6&height=120&section=footer" width="100%"/>
